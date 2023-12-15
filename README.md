@@ -3,6 +3,8 @@
 </p>
 
 ![image](https://github.com/Jeanpk12/Gerador-de-Card-de-Pokemon-/assets/122842874/bb55cb86-f9af-4b01-ac4d-312cd4b715e0)
+<a href="https://jeanpk12.github.io/Gerador-de-Card-de-Pokemon-/" target="_blank">Live Page</a>
+
 
 
 <h2>Tecnologias Utilizadas</h2>
